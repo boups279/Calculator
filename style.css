@@ -1,0 +1,15 @@
+.size{
+    font-size: 70px;
+    color: white;
+}
+.valider{
+    position: relative ;
+     width: 20rem;
+      height: 6rem;
+}
+.icons{
+    color: yellow;
+     font-size: 6rem;
+      position:relative;
+       bottom:10px;
+}
